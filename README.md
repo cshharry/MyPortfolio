@@ -1,6 +1,6 @@
 # 🤗 MyPortfolio
 
-*최종 업데이트: 2024년 9월 23일*
+*최종 업데이트: 2024년 9월 24일*
 
 <br>
 
@@ -19,6 +19,7 @@
 | 3 | 2024-09-20 | 1분 인기스타  | ELK와 crontab 기반 실시간 데이터 시각화 및 자동화 서비스 | Linux, Crontab, Bash scripting, ELK | [GitHub 링크](https://github.com/cshharry/WooriFisa_crontab) | 4명
 | 4 | 2024-09-23 | Average Load  | Average Load를 분석하는 부하 테스트는 시스템 성능 최적화 | Linux | [GitHub 링크](https://github.com/cshharry/WooriFisa_AverageLoad) | 2명
 | 5 | 2024-09-23 | 동적 디렉토리 생성 & 디렉토리 백업 자동화  | 동적 디렉토리 생성 및 crontab을 활용한 디렉토리 백업 자동화 | Linux, Crontab | [GitHub 링크](https://github.com/cshharry/WooriFisa_DynamicDir) | 1명
+| 6 | 2024-09-24 | Docker 이미지 최적화 | 여러가지 Docker 최적화 방법 소개 및 구현 | Linux, Docker | [GitHub 링크](https://github.com/cshharry/WooriFisa_DockerImageOptimization) | 1명
 <br>
 
 
