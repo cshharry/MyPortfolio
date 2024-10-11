@@ -1,6 +1,6 @@
 # 🤗 MyPortfolio
 
-*최종 업데이트: 2024년 10월 2일*
+*최종 업데이트: 2024년 10월 11일*
 
 <br>
 
@@ -23,6 +23,7 @@
 | 7 | 2024-09-25 | Security Scanner | Git 저장소를 대상으로 Trivy를 사용하여 보안 취약점을 탐지하는 웹 애플리케이션 | Linux, Trivy, Docker, ELK | [GitHub 링크](https://github.com/cshharry/WooriFisa_SecurityScanner) | 4명
 | 8 | 2024-10-01 | CI/CD Pipeline | CI/CD Pipeline 구축을 통한 원격 서버SSH 접속 | Linux, Docker, Jenkins | [GitHub 링크](https://github.com/cshharry/WooriFisa_CICDPipeline) | 1명
 | 9 | 2024-10-02 | Spring 애플리케이션 Kubernetes 배포 | Minikube를 사용한 Spring애플리케이션Kubernetes에 배포 | Linux, Docker, k8s | [GitHub 링크](https://github.com/cshharry/WooriFisa_K8sDeployment) | 1명
+| 10 | 2024-10-11 | AWS_Jenkins | AWS와 Jenkins를 활용한 CI/CD 파이프라인 구축 | Java, Jenkins, EC2, S3, Crontab, Slack | [GitHub 링크](https://github.com/cshharry/WooriFisa_AwsJenkinsCICD) | 4명
 <br>
 
 
