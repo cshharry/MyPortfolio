@@ -1,10 +1,10 @@
 # 🤗 MyPortfolio
 
-*최종 업데이트: 2024년 10월 11일*
+*최종 업데이트: 2024년 12월 22일*
 
 <br>
 
-안녕하세요! 이 레포지토리는 **스스로 탐구하고 기획하여 진행한 다양한 미니 프로젝트들**을 모아놓은 포트폴리오입니다.😊 <br>
+안녕하세요! 이 레포지토리는 **스스로 탐구하고 기획하여 진행한 다양한 프로젝트들**을 모아놓은 포트폴리오입니다.😊 <br>
 
 각 프로젝트는 문제 분석부터 아키텍처 설계, 구현, 그리고 테스트까지 전 과정을 포함하고 있습니다. 
 
@@ -24,6 +24,7 @@
 | 8 | 2024-10-01 | CI/CD Pipeline | CI/CD Pipeline 구축을 통한 원격 서버SSH 접속 | Linux, Docker, Jenkins | [GitHub 링크](https://github.com/cshharry/WooriFisa_CICDPipeline) | 1명
 | 9 | 2024-10-02 | Spring 애플리케이션 Kubernetes 배포 | Minikube를 사용한 Spring애플리케이션Kubernetes에 배포 | Linux, Docker, k8s | [GitHub 링크](https://github.com/cshharry/WooriFisa_K8sDeployment) | 1명
 | 10 | 2024-10-11 | AWS_Jenkins | AWS와 Jenkins를 활용한 CI/CD 파이프라인 구축 | Java, Jenkins, EC2, S3, Crontab, Slack | [GitHub 링크](https://github.com/cshharry/WooriFisa_AwsJenkinsCICD) | 4명
+| 11 | 2024-10-16 | Terraform AWS S3 작업 | Terraform을 활용한 AWS S3 버킷 생성, 파일 업로드 및 수정 작업 자동화 | AWS, Terraform | [GitHub 링크](https://github.com/cshharry/WooriFisa_TerraformS3) | 1명
 <br>
 
 
@@ -34,7 +35,9 @@
 | No | 날짜       | 프로젝트명         | 설명                            | 스택                   | 링크  | 인원                                      |
 |----|------------|----------------------|---------------------------------|------------------------|------------------------------------------------|------------|
 | 1 | 2024-07-26 | 타이타닉 데이터 시각화  | ELK를 활용한 타이타닉 데이터 시각화 | ELK, MySQL | [GitHub 링크](https://github.com/cshharry/WooriFisa_Titanic) | 4명
-| 2 | 2024-08-14 | 사용자 맞춤형 정기 구독 서비스  | 사용자 맞춤형 정기 구독 서비스 | Spring Boot, ELK | [GitHub 링크](https://github.com/FISub) | 4명
+| 2 | 2024-08-14 | FISub | 사용자 맞춤형 정기 구독 서비스 | Spring Boot, ELK | [GitHub 링크](https://github.com/FISub) | 4명
+| 3 | 2024-10-22 ~ 2024-12-10 | WoorRibound | 5070 중장년층 취업 플랫폼 | Spring boot, JPA, AWS, Jenkins, Docker, Redis, ELK, Grafana | [GitHub 링크](https://github.com/WooRibound) | 5명
+
 
 <br>
 
