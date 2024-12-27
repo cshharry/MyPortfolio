@@ -23,8 +23,10 @@
 | 7 | 2024-09-25 | [Security Scanner](https://github.com/cshharry/WooriFisa_SecurityScanner) | Git 저장소를 대상으로 Trivy를 사용하여 보안 취약점을 탐지하는 웹 애플리케이션 | Linux, Trivy, Docker, ELK | 4명
 | 8 | 2024-10-01 | [CI/CD Pipeline](https://github.com/cshharry/WooriFisa_CICDPipeline) | CI/CD Pipeline 구축을 통한 원격 서버SSH 접속 | Linux, Docker, Jenkins | 1명
 | 9 | 2024-10-02 | [Spring 애플리케이션 Kubernetes 배포](https://github.com/cshharry/WooriFisa_K8sDeployment) | Minikube를 사용한 Spring애플리케이션Kubernetes에 배포 | Linux, Docker, k8s | 1명
-| 10 | 2024-10-11 | [AWS_Jenkins](https://github.com/cshharry/WooriFisa_AwsJenkinsCICD) | AWS와 Jenkins를 활용한 CI/CD 파이프라인 구축 | Java, Jenkins, EC2, S3, Crontab, Slack | 4명
-| 11 | 2024-10-16 | [Terraform AWS S3 작업](https://github.com/cshharry/WooriFisa_TerraformS3) | Terraform을 활용한 AWS S3 버킷 생성, 파일 업로드 및 수정 작업 자동화 | AWS, Terraform | 1명
+| 10 | 2024-10-08 | [JMeter 스트레스 테스트](https://github.com/cshharry/WooriFisa_JmeterStressTest) | AWS EC2에서 JMeter를 활용한 스트레스 테스트 | AWS, JMeter, Docker | 4명
+| 11 | 2024-10-11 | [AWS_Jenkins](https://github.com/cshharry/WooriFisa_AwsJenkinsCICD) | AWS와 Jenkins를 활용한 CI/CD 파이프라인 구축 | Java, Jenkins, EC2, S3, Crontab, Slack | 4명
+| 12 | 2024-10-16 | [Terraform AWS S3 작업](https://github.com/cshharry/WooriFisa_TerraformS3) | Terraform을 활용한 AWS S3 버킷 생성, 파일 업로드 및 수정 작업 자동화 | AWS, Terraform | 1명
+| 13 | 2024-10-22 | [On Premise 환경에서 Lambda 구현](https://github.com/cshharry/WooriFisa_OnpremiseLambda) | On Premise환경에서 AWS Lambda구현 | AWS Lambda, AWS DynamoDB, Docker | 1명
 <br>
 
 
