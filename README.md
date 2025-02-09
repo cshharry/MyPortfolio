@@ -27,6 +27,8 @@
 | 11 | 2024-10-11 | [AWS_Jenkins](https://github.com/cshharry/WooriFisa_AwsJenkinsCICD) | AWS와 Jenkins를 활용한 CI/CD 파이프라인 구축 | Java, Jenkins, EC2, S3, Crontab, Slack | 4명
 | 12 | 2024-10-16 | [Terraform AWS S3 작업](https://github.com/cshharry/WooriFisa_TerraformS3) | Terraform을 활용한 AWS S3 버킷 생성, 파일 업로드 및 수정 작업 자동화 | AWS, Terraform | 1명
 | 13 | 2024-10-22 | [On Premise 환경에서 Lambda 구현](https://github.com/cshharry/WooriFisa_OnpremiseLambda) | On Premise환경에서 AWS Lambda구현 | AWS Lambda, AWS DynamoDB, Docker | 1명
+| 14 | 2024-10-22 ~ 2024-12-10 | [WoorRibound](https://github.com/WooRibound) | 5070 중장년층 취업 플랫폼 | Spring boot, JPA, AWS, Jenkins, Docker, Redis, ELK, Grafana | 5명
+
 <br>
 
 
